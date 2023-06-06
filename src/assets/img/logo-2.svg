@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#494A9F;}
+	.st1{font-family:'JosefinSans-Regular';}
+	.st2{font-size:6.5237px;}
+	.st3{fill:#494A9F;}
+	.st4{fill:#F7E434;}
+	.st5{fill:#FFFFFF;}
+	.st6{opacity:0.45;fill:#FFFFFF;}
+	.st7{display:none;}
+	.st8{display:inline;fill:#494B9F;}
+	.st9{font-family:'JosefinSans-Bold';}
+	.st10{font-size:9.3018px;}
+	.st11{display:inline;fill:#F6E336;}
+</style>
+<g>
+	<text transform="matrix(1.0157 0 0 1 -0.0527 52.3693)" class="st0 st1 st2">Gaming Company</text>
+	<g>
+		<g>
+			<path class="st3" d="M26.5,10.85c-9.48,0-17.2,7.6-17.2,16.93H2.44c0-13.06,10.8-23.69,24.07-23.69L26.5,10.85z"/>
+		</g>
+		<ellipse class="st4" cx="26.57" cy="27.64" rx="15.92" ry="15.67"/>
+		<g>
+			<path class="st5" d="M32.07,36.54H20.94l-2.54,6.01h-6.06l7.17-20.25h14.6l6.71,20.25h-6.32L32.07,36.54z"/>
+		</g>
+		<g id="XMLID_1_">
+			<g id="XMLID_315_">
+				<path id="XMLID_318_" class="st3" d="M41.88,43.39c-2.17,1.11-4.8,0.17-5.77-1.99l-0.42-0.95l-1.9-4.23
+					c-0.43-0.96-1.4-1.58-2.47-1.58h-9.51c-1.07,0-2.03,0.62-2.46,1.58l-2.32,5.17c-0.97,2.16-3.6,3.1-5.77,1.99
+					c-1.85-0.95-2.66-3.15-2-5.1l3.08-8.98c-0.57-1.16-0.81-2.51-0.56-3.94c0.5-2.84,2.89-5.05,5.8-5.36
+					c2.01-0.21,3.86,0.48,5.2,1.69h7.55c1.34-1.22,3.19-1.9,5.2-1.69c2.91,0.31,5.31,2.52,5.8,5.36c0.25,1.43,0.01,2.78-0.56,3.94
+					l0.97,2.83l2.11,6.15C44.55,40.25,43.74,42.44,41.88,43.39z"/>
+				<path id="XMLID_317_" class="st6" d="M41.88,43.39c-2.17,1.11-4.8,0.17-5.77-1.99l-0.42-0.95c4.3-1.68,5.66-5.6,6.08-8.31
+					l2.11,6.15C44.55,40.25,43.74,42.44,41.88,43.39z"/>
+				<path id="XMLID_316_" class="st6" d="M11.26,43.39c2.17,1.11,4.8,0.17,5.77-1.99l0.42-0.95c-4.3-1.68-5.66-5.6-6.08-8.31
+					l-2.11,6.15C8.6,40.25,9.41,42.44,11.26,43.39z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st5" d="M35.65,23.16c-1.96,0-3.55,1.57-3.55,3.49h-1.42c0-2.7,2.23-4.89,4.97-4.89V23.16z"/>
+		</g>
+		<g id="XMLID_2_">
+			<ellipse id="XMLID_271_" class="st5" cx="18.52" cy="26.32" rx="4.47" ry="4.4"/>
+			<ellipse id="XMLID_272_" class="st3" cx="34.17" cy="7.76" rx="3.82" ry="3.76"/>
+			<g id="XMLID_41_">
+				<g id="XMLID_270_">
+					<polygon class="st4" points="19.78,28.42 16.39,25.09 17.27,24.21 20.66,27.55 					"/>
+				</g>
+				<g id="XMLID_221_">
+					<polygon class="st4" points="17.27,28.42 16.39,27.55 19.78,24.21 20.66,25.09 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1.0157 0 0 1 9.9165 46.6506)" class="st7"><tspan x="0" y="0" class="st8 st9 st10">HYPNI</tspan><tspan x="24.39" y="0" class="st11 st9 st10">X</tspan></text>
+</g>
+</svg>
